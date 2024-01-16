@@ -1,0 +1,4 @@
+baseURL = 'https://iceyxxx.github.io/'
+languageCode = 'en-us'
+title = 'Xzb New Hugo Site'
+theme = 'ananke'
